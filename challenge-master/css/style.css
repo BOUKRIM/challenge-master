@@ -1,0 +1,160 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+
+.intro-div{
+    position: absolute;
+    top: 1px;
+    left: 0;
+}
+
+
+#logo{
+    top: 44px
+    height: 100%;
+   margin-left: 4em;
+   margin-top: 40px;
+}
+
+.paragraph-section{
+
+position: absolute;
+margin-left: 22px;
+margin-top: 22px;
+    top: 150px;
+    width: -6px;
+    height:80px ;
+    
+    
+}
+
+.paragraph-section h1{
+    position: absolute;
+}
+
+
+
+
+.paragraph-section  span{
+    border-radius:44%;
+    color: #EEEE;
+    background-color:black;
+    display: block;
+    font-size: 20px;
+    width: 80px;
+    position: relative;
+    left: 48%;
+    top: 13%;
+
+}
+
+.paragraph-section #first-paragraph{
+    color: rgb(165, 164, 164);
+    position: relative;
+    left: 90%;
+    top: -30%;
+
+}
+
+.paragraph-section #last-paragraph{
+    
+    color: rgb(121, 120, 120);
+    writing-mode: horizontal-tb;
+    
+    width: 212px;
+    
+    position: relative;
+    left: 41%;
+    top: -22%;
+  
+}
+
+
+
+.button-section{
+    
+    
+    border-radius: 22%;
+    font-size: 20px;
+    width: 212px;
+    position: absolute;
+    left: 230%;
+    top: 451%;
+    
+}
+
+
+
+.button-section Button {
+    position: absolute;
+    height: 45px;
+    width: 100px;
+    border-radius: 13px;
+    background-color: #fa6045;
+    left: -48%;
+    top: -27%;
+}
+
+
+/* The first section art divs */
+
+
+.art-div{
+    margin-left: 50%;
+    top:55%;
+    right: 1%;
+    height: 30vh ;
+    border : 80% solid black;
+    background-color: #ecf0f1;
+    padding:3%;
+    border-bottom-left-radius: 20%
+}
+
+.art-div img{
+position: absolute;
+top: 29%;
+width: 47%;
+height: auto;
+}
+
+ .art-div ul{
+
+    
+}
+
+.art-div ul li{
+    
+   display: inline;
+   padding: 5% 5%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.art-div ul li a{
+   text-transform:none;
+    color: black;
+} 
+
+.art-div ul li a:hover{
+    
+}
+
+
+.art-div .dotted-circle{
+height: 22px;
+width: 22PX;
+color: gray;
+}
+
+.art-div .login-grey{
+    color: gray;
+}
+
+
+
+/* the second section background gris*/
+.art-background{
+   background: #ecf0f1;
+}
